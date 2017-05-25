@@ -1,0 +1,62 @@
+body{
+z-index: 0;
+}
+
+#startpage{
+background-image: url("images/images.jpeg");
+border:2px white;
+margin-top: 100px;
+	 text-align: center;
+margin-bottom: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.trivia {
+	color: white;
+}
+
+#timetron{
+background-image: url("images/images.jpeg");
+border:2px white;
+margin-top: 0px;
+	 text-align: center;
+margin-bottom: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+#donepanel {
+border:2px white;
+background-image: url("images/images.jpeg");
+margin-top: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 10px;
+
+}
+
+#quest{
+
+border:0px solid black;
+	
+}
+
+.questions {
+	margin-left:20px;
+}
+
+#done {
+	padding-left: 10px;
+}
+
+.end{
+background-image: url("images/images.jpeg");
+border:0px white;
+margin-top: 100px;
+	 text-align: center;
+margin-top: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 10px;
+
+}
